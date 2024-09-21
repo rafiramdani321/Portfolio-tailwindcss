@@ -1,3 +1,3 @@
 # portfolio
 portfolio-tailwindCSS
-https://rafiramdani1.github.io/portfolio/
+https://rafiramdani321.github.io/portfolio-tailwindcss/
